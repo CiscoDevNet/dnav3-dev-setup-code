@@ -1,4 +1,4 @@
-## Cisco DevNet Learning Labs: Sample Code for Application Hosting and the Network
+## Cisco DevNet Learning Labs: Sample Code
 
 In this module you will explore different options available for running code and hosting applications at the edge of the network, directly on switches, routers and other devices.   
 
