@@ -1,6 +1,6 @@
 ## Cisco DevNet Learning Labs: Sample Code
 
-In this module you will explore different options available for running code and hosting applications at the edge of the network, directly on switches, routers and other devices.   
+This sample code...   
 
 Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 
